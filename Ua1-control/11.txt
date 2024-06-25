@@ -1,0 +1,1 @@
+["Mozilla/5.0 (Linux; arm_64; Android 12; TECNO CH6n) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 YaBrowser/23.1.4.84.00 SA/3 Mobile Safari/537.36",]
